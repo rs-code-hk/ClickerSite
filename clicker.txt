@@ -37,4 +37,4 @@ Upgrades
     *sharpNail
         name:Sharpened Nail
         icon class:nailIcon
-        effect:multiply yield of nail by 2
+        passive:multiply yield of nail by 2
