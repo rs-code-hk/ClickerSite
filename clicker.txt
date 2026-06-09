@@ -36,5 +36,5 @@ Buildings
 Upgrades
     *sharpNail
         name:Sharpened Nail
-        css icon:nailIcon
+        icon class:nailIcon
         effect:multiply yield of nail by 2
