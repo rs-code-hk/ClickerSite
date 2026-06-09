@@ -36,6 +36,7 @@ Buildings
 Upgrades
     *sharpNail
         name:Sharpened Nail
+        desc:Nails deal twice as much damage
         icon class:nailIcon
         passive:multiply yield of nail by 2
         cost:1000 geo

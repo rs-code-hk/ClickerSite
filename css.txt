@@ -201,5 +201,5 @@
 .nailIcon {
 	width:64px;
 	height:64px;
-	object-fit:fill;
+	object-fit:contain;
 }
