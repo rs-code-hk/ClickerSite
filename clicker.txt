@@ -32,3 +32,9 @@ Buildings
         on tick:yield 1 geo
         icon:https://rs-code-hk.github.io/ClickerSite/Nail.png
         cost:30 geo
+
+Upgrades
+    *sharpNail
+        name:Sharpened Nail
+        css icon:nailIcon
+        effect:multiply yield of nail by 2

@@ -197,3 +197,10 @@
 	width:125px;
 	height:107px;
 }
+
+.nailIcon {
+	width:auto;
+	height:auto;
+	width-max:64px;
+	height-max:64px;
+}
