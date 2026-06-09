@@ -8,4 +8,16 @@ Let's make a game!
 
 Settings
     background:https://rs-code-hk.github.io/ClickerSite/hollowKnightAuraFarming.png
-    
+
+
+Buttons
+    *mineGeo
+        name:Mine Geo
+        desc:Click this to mine geo. Grants 1 geo per click.
+        on click:yield 1 geo
+
+Resources
+    *geo
+        name:Geo
+        desc:Made of the decayed shells of dead bugs
+        
