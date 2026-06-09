@@ -17,6 +17,7 @@ Buttons
         on click:yield 1 geo
         icon:https://rs-code-hk.github.io/ClickerSite/Geo_Deposit.png
         class:geoButton
+        icon class:geoButtonIcon
         no text
 
 Resources
@@ -31,4 +32,3 @@ Buildings
         on tick:yield 1 geo
         icon:https://rs-code-hk.github.io/ClickerSite/Nail.png
         cost:30 geo
-        
