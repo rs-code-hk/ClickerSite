@@ -30,3 +30,5 @@ Buildings
         desc:Slashes once every second
         on tick:yield 1 geo
         icon:https://rs-code-hk.github.io/ClickerSite/Nail.png
+        cost:30 geo
+        
