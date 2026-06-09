@@ -17,6 +17,8 @@ Buttons
         desc:Click this to mine geo. Grants 1 geo per click.
         on click:yield 1 geo
         icon:https://rs-code-hk.github.io/ClickerSite/Geo_Deposit.png
+        class:geoButton
+        no text
 
 Resources
     *geo
