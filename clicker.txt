@@ -10,7 +10,6 @@ Settings
     background:https://rs-code-hk.github.io/ClickerSite/hollowKnightAuraFarming.png
     stylesheet:https://rs-code-hk.github.io/ClickerSite/css.txt
 
-
 Buttons
     *mineGeo
         name:Mine Geo
@@ -24,3 +23,10 @@ Resources
     *geo
         name:Geo
         desc:Made of the decayed shells of dead bugs
+
+Buildings
+    *nail
+        name:nail
+        desc:Slashes once every second
+        on tick:yield 1 geo
+        icon:https://rs-code-hk.github.io/ClickerSite/Nail.png
