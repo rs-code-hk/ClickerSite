@@ -8,6 +8,7 @@ Let's make a game!
 
 Settings
     background:https://rs-code-hk.github.io/ClickerSite/hollowKnightAuraFarming.png
+    stylesheet:https://rs-code-hk.github.io/ClickerSite/css.txt
 
 
 Buttons
@@ -20,4 +21,4 @@ Resources
     *geo
         name:Geo
         desc:Made of the decayed shells of dead bugs
-        
+        icon:https://rs-code-hk.github.io/ClickerSite/Geo_Deposit.png
