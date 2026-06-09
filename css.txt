@@ -199,8 +199,6 @@
 }
 
 .nailIcon {
-	width:auto;
-	height:auto;
-	width-max:64px;
-	height-max:64px;
+	width:64px;
+	height:64px;
 }
