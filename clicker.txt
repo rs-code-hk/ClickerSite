@@ -3,3 +3,9 @@ Let's make a game!
     author:Rosie
     desc:This is a clicker game inspired by hollow knight. All assets and ideas belong to Team Cherry.
     created:9/06/2026
+    updated:9/06/2026
+    version:0.0
+
+Settings
+    background:https://rs-code-hk.github.io/ClickerSite/hollowKnightAuraFarming.png
+    
