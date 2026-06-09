@@ -1,2 +1,5 @@
 Let's make a game!
     name:Hollow Knight Clicker
+    author:Rosie
+    desc:This is a clicker game inspired by hollow knight. All assets and ideas belong to Team Cherry.
+    created:9/06/2026
